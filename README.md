@@ -17,38 +17,15 @@
 
 - 🎓 Tốt nghiệp tại **Trường Đại học Mở TP.HCM**
 - 🔭 Đang làm việc với **Python (Django/Flask)**, **React Native**, **Java** và **Odoo**
-- 📫 Liên hệ: **quangphucqn0612@gmail.com**
+- 📫 Liên hệ: **your.email@gmail.com**
 
 <br/>
 
 ## 🛠️ Tech Stack
 
-**Ngôn ngữ & Framework**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,django,flask,java,spring,js,ts,react,nodejs&perline=9" alt="languages" />
-</p>
-
-**Odoo & Database**
-
-<p>
-  <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo" />
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&perline=3" alt="databases" />
-</p>
-
-**Công cụ**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,pycharm,postman,figma,linux&perline=8" alt="tools" />
-</p>
-
-**AI Tools**
-
-<p>
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
-  <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
-  <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white" alt="DeepSeek" />
-</p>
+<div align="center">
+  <img src="./assets/tech-stack.svg" width="100%" alt="Tech stack" />
+</div>
 
 <br/>
 
