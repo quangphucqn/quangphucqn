@@ -1,5 +1,5 @@
 <!-- Header sóng động -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Tr%E1%BA%A7n%20Quang%20Ph%E1%BB%A5c&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-stack%20%26%20Mobile%20Developer&descSize=18&descAlignY=58" />
+<img width="100%" src="./assets/header.svg" alt="header" />
 
 <!-- Dòng chữ gõ tự động -->
 <div align="center">
@@ -17,7 +17,7 @@
 
 - 🎓 Tốt nghiệp tại **Trường Đại học Mở TP.HCM**
 - 🔭 Đang làm việc với **Python (Django/Flask)**, **React Native**, **Java** và **Odoo**
-- 📫 Liên hệ: **your.email@gmail.com**
+- 📫 Liên hệ: **quangphucqn0612@gmail.com**
 
 <br/>
 
@@ -107,4 +107,4 @@ Chỉ bỏ comment đoạn này SAU KHI workflow snake.yml đã chạy thành c�
 </p>
 
 <!-- Footer sóng động -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer" />
+<img width="100%" src="./assets/footer.svg" alt="footer" />
