@@ -3,7 +3,7 @@
 
 <!-- Dòng chữ gõ tự động -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there!+I+am+Tran+Quang+Phuc;Student+at+HCMC+Open+University;Python+%7C+React+Native+%7C+Java+%7C+Odoo;Learning+and+building+every+day" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there!+I+am+Tran+Quang+Phuc;Graduate+of+HCMC+Open+University;Python+%7C+React+Native+%7C+Java+%7C+Odoo;Learning+and+building+every+day" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -15,17 +15,49 @@
 
 ## 👨‍💻 Giới thiệu
 
-- 🎓 Tốt nghiệp tại **Trường Đại học Mở TP.HCM**
+- 🎓 Tốt nghiệp **Trường Đại học Mở TP.HCM**
 - 🔭 Đang làm việc với **Python (Django/Flask)**, **React Native**, **Java** và **Odoo**
-- 📫 Liên hệ: **your.email@gmail.com**
+- 🌱 Đang học: *(điền vào, ví dụ: Docker, CI/CD, System Design...)*
+- 💬 Hỏi mình về: *(điền vào, ví dụ: React Native, REST API...)*
+- 📫 Liên hệ: **quangphucqn0612@gmail.com**
 
 <br/>
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-  <img src="./assets/tech-stack.svg" width="100%" alt="Tech stack" />
-</div>
+<p align="center"><sub><b>LANGUAGES &amp; FRAMEWORKS</b></sub></p>
+<p align="center">
+  <img src="./assets/icons/python.webp" width="72" alt="Python" title="Python" />
+  <img src="./assets/icons/django.webp" width="72" alt="Django" title="Django" />
+  <img src="./assets/icons/flask.webp" width="72" alt="Flask" title="Flask" />
+  <img src="./assets/icons/java.webp" width="72" alt="Java" title="Java" />
+  <img src="./assets/icons/spring.webp" width="72" alt="Spring" title="Spring" />
+  <img src="./assets/icons/javascript.webp" width="72" alt="JavaScript" title="JavaScript" />
+  <img src="./assets/icons/typescript.webp" width="72" alt="TypeScript" title="TypeScript" />
+  <img src="./assets/icons/react.webp" width="72" alt="React" title="React" />
+  <img src="./assets/icons/nodedotjs.webp" width="72" alt="Node.js" title="Node.js" />
+  <img src="./assets/icons/odoo.webp" width="72" alt="Odoo" title="Odoo" />
+</p>
+
+<p align="center"><sub><b>DATABASES &amp; TOOLS</b></sub></p>
+<p align="center">
+  <img src="./assets/icons/postgresql.webp" width="72" alt="PostgreSQL" title="PostgreSQL" />
+  <img src="./assets/icons/mysql.webp" width="72" alt="MySQL" title="MySQL" />
+  <img src="./assets/icons/sqlite.webp" width="72" alt="SQLite" title="SQLite" />
+  <img src="./assets/icons/git.webp" width="72" alt="Git" title="Git" />
+  <img src="./assets/icons/github.webp" width="72" alt="GitHub" title="GitHub" />
+  <img src="./assets/icons/postman.webp" width="72" alt="Postman" title="Postman" />
+  <img src="./assets/icons/figma.webp" width="72" alt="Figma" title="Figma" />
+  <img src="./assets/icons/intellijidea.webp" width="72" alt="IntelliJ IDEA" title="IntelliJ IDEA" />
+  <img src="./assets/icons/pycharm.webp" width="72" alt="PyCharm" title="PyCharm" />
+</p>
+
+<p align="center"><sub><b>AI TOOLS</b></sub></p>
+<p align="center">
+  <img src="./assets/icons/claude.webp" width="72" alt="Claude" title="Claude" />
+  <img src="./assets/icons/openai.webp" width="72" alt="ChatGPT" title="ChatGPT" />
+  <img src="./assets/icons/deepseek.webp" width="72" alt="DeepSeek" title="DeepSeek" />
+</p>
 
 <br/>
 
@@ -78,9 +110,8 @@ Chỉ bỏ comment đoạn này SAU KHI workflow snake.yml đã chạy thành c�
 ## 🤝 Kết nối
 
 <p>
-  <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://facebook.com/your-fb"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="mailto:quangphucqn0612@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.facebook.com/phuc.tranquang.771"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </p>
 
 <!-- Footer sóng động -->
