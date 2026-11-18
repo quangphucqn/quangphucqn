@@ -16,9 +16,6 @@
 ## 👨‍💻 Giới thiệu
 
 - 🎓 Tốt nghiệp **Trường Đại học Mở TP.HCM**
-- 🔭 Đang làm việc với **Python (Django/Flask)**, **React Native**, **Java** và **Odoo**
-- 🌱 Đang học: *(điền vào, ví dụ: Docker, CI/CD, System Design...)*
-- 💬 Hỏi mình về: *(điền vào, ví dụ: React Native, REST API...)*
 - 📫 Liên hệ: **quangphucqn0612@gmail.com**
 
 <br/>
